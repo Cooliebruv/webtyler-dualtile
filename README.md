@@ -1,6 +1,6 @@
 # About
 
-Use it here: https://wareya.github.io/webtyler/
+Use it here: https://cooliebruv.github.io/webtyler-dualtile/
 
 Fork of the original Webytler by Wareya to add basic dual-tile support. The code may be garbage because chatgpt helped me make sense of it, but it works! And that's all that matters, right?
 
