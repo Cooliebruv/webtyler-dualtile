@@ -2,9 +2,7 @@
 
 Use it here: https://wareya.github.io/webtyler/
 
-Web Autotyler is an autotile conversion tool for turning small/incomplete autotile tilesets into complete, fleshed-out ones.
-
-It supports nine different input formats and three different output formats, and displays a preview.
+Fork of the original Webytler by Wareya to add basic dual-tile support. The code may be garbage because chatgpt helped me make sense of it, but it works! And that's all that matters, right?
 
 ![screenshot](etc/screenshot.png)
 
